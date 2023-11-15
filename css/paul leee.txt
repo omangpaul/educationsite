@@ -1,0 +1,8 @@
+<!doctype html>
+<html>
+<title>BEATS</title>
+<body>
+<h1>HOW TO MAKE BEATS</h1>
+<p>To make beat we need a<em>PHONE</em></p>
+</body>
+</html>
